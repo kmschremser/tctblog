@@ -1,0 +1,49 @@
+.tooltipster-sidetip.tooltipster-borderless.tooltipster-optin-cat .tooltipster-box {
+	background-color: #DE607C;
+	border-radius: 5px;
+	margin-top: 10px;
+	font-size: 14px;
+	font-family: sans-serif;
+}
+.tooltipster-sidetip.tooltipster-borderless.tooltipster-optin-cat-admin .tooltipster-box {
+	background-color: #555;
+	color: white;
+}
+.tooltipster-arrow-border {
+	border-top-color: #DE607C !important;
+}
+
+.fca_eoi_featherlight {
+	z-index: 9999998;
+	cursor: initial;
+}
+
+.fca_eoi_featherlight .featherlight-content {
+	background-color: transparent;
+	padding: 0;
+	overflow: visible !important;
+}
+/* OLD ICON */
+.fca_eoi_featherlight-close {
+	display: none;
+}
+
+div.fca_eoi_layout_postbox_wrapper {
+	text-align: center;
+	width: 100%;
+}
+
+.fca_eoi_layout_postbox,
+.fca_eoi_layout_popup,
+.fca_eoi_layout_widget {
+	width: 100%;
+	font-family: sans-serif;
+	text-align: center;
+	border: 1px solid transparent;
+}
+
+.fca_eoi_form_wrapper,
+.fca_eoi_form_content {
+	margin: 0;
+	padding: 0;
+}

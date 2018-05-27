@@ -1,0 +1,689 @@
+# Copyright (C) 2018 Michael Heilemann
+# This file is distributed under the same license as the WordPress Default package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Default 1.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/tricoretraining\n"
+"POT-Creation-Date: 2018-05-24 16:05:32+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-05-24 19:35+0200\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.0.7\n"
+"Last-Translator: KMS <klaus@tricoretraining.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de\n"
+
+#: 404.php:11 archives.php:12 image.php:12 index.php:27 links.php:12
+#: page.php:12 search.php:11 single.php:20
+msgid "Blog of TriCoreTraining"
+msgstr "TriCoreTraining Blog"
+
+#: 404.php:17 archives.php:18 image.php:18 index.php:33 links.php:18
+#: page.php:16 search.php:17 single.php:26
+msgid ""
+"Sorry, you have to have JavaScript activated in your browser for this "
+"service."
+msgstr ""
+"Sorry, aber du musst JavaScript in deinem Browser für dieses Service "
+"aktivieren."
+
+#: 404.php:21
+msgid "Please use our search."
+msgstr "Bitte nutze unsere Suche."
+
+#: archive.php:28
+msgid "Archive for the"
+msgstr "Archiv für"
+
+#: archive.php:28
+msgid "Category"
+msgstr "Kategorie"
+
+#: archive.php:30
+msgid "Posts Tagged"
+msgstr "Beiträge getagged"
+
+#: archive.php:32 archive.php:34 archive.php:36
+msgid "Archive for"
+msgstr "Archiv für"
+
+#: archive.php:38
+msgid "Author Archive"
+msgstr "Autoren-Archiv"
+
+#: archive.php:40
+msgid "Blog Archives"
+msgstr "Blogarchiv"
+
+#: archive.php:62 index.php:56 search.php:36
+msgid "Posted in"
+msgstr "Gepostet in"
+
+#: archive.php:62 index.php:56 search.php:36
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: archive.php:62 index.php:56 search.php:36
+msgid "No Comments"
+msgstr "Keine Kommentare"
+
+#: archive.php:62 index.php:56 search.php:36
+msgid "Comment"
+msgstr "Kommentar"
+
+#: archive.php:62 comments-popup.php:28 index.php:56 search.php:36
+msgid "Comments"
+msgstr "Kommentare"
+
+#: archive.php:75 image.php:34 index.php:71 search.php:26 search.php:42
+#: single.php:79
+msgid "Older Entries"
+msgstr "Vorherige Beiträge"
+
+#: archive.php:78 image.php:37 index.php:74 search.php:27 search.php:43
+#: single.php:82
+msgid "Newer Entries"
+msgstr "Neuere Beiträge"
+
+#: archive.php:93
+msgid "Sorry, but there aren't any posts in the"
+msgstr "Sorry, aber es gibt keine Beiträge in"
+
+#: archive.php:93
+msgid "category"
+msgstr "Kategorie"
+
+#: archive.php:93 archive.php:98
+msgid "yet"
+msgstr "jetzt"
+
+#: archive.php:95
+msgid "Sorry, but there aren't any posts with this date."
+msgstr "Sorry, aber es gibt keine Beiträge mit diesem Datum."
+
+#: archive.php:98
+msgid "Sorry, but there aren't any posts by"
+msgstr "Sorry, aber es gibt keine Beiträge von"
+
+#: archive.php:100
+msgid "No posts found."
+msgstr "Keine Posts gefunden."
+
+#: archives.php:24
+msgid "Archives by Month:"
+msgstr "Archivierte Beiträge vom Monat:"
+
+#: archives.php:29
+msgid "Archives by Subject:"
+msgstr "Archivierte Beiträge nach Titel:"
+
+#: comments-popup.php:30
+msgid "Really Simple Syndication"
+msgstr "Really Simple Syndication"
+
+#: comments-popup.php:30
+msgid "for comments on this post."
+msgstr "für Kommentare zu diesem Beitrag."
+
+#: comments-popup.php:33
+msgid "The URL to TrackBack this entry is:"
+msgstr "Der URL zum TrackBack dieses Beitrags ist:"
+
+#: comments-popup.php:51
+msgid "by"
+msgstr "von"
+
+#: comments-popup.php:57
+msgid "No comments yet."
+msgstr "Derzeit keine Kommentare."
+
+#: comments-popup.php:61
+msgid "Leave a comment"
+msgstr "Schreibe einen Kommentar"
+
+#: comments-popup.php:62
+msgid ""
+"Line and paragraph breaks automatic, e-mail address never displayed, HTML "
+"allowed:"
+msgstr ""
+"Zeilen- und Absatzumbrüche passieren automatisch, E-Mail Adressen werden "
+"nicht angezeigt, HTML ist erlaubt:"
+
+#: comments-popup.php:66
+msgid "Logged in as"
+msgstr "Login als"
+
+#: comments-popup.php:66
+msgid "Log out of this account"
+msgstr "Ausloggen aus diesem Account"
+
+#: comments-popup.php:66
+msgid "Log out"
+msgstr "Ausloggen"
+
+#: comments-popup.php:70
+msgid "Name"
+msgstr "Name"
+
+#: comments-popup.php:75
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: comments-popup.php:80
+msgid "URL"
+msgstr "URL"
+
+#: comments-popup.php:85
+msgid "Your Comment"
+msgstr "Dein Kommentar"
+
+#: comments-popup.php:98
+msgid "Sorry, the comment form is closed at this time."
+msgstr "Sorry, das Kommentieren ist derzeit abgedreht."
+
+#: comments-popup.php:103
+msgid "Close this window."
+msgstr "Schliesse dieses Fenster."
+
+#: comments-popup.php:109 single.php:91
+msgid "Sorry, no posts matched your criteria."
+msgstr "Sorry, keine Beiträge passen zu deinen Kriterien."
+
+#: footer.php:10
+msgid "Navigation"
+msgstr "Navigation"
+
+#: footer.php:12
+msgid "Home"
+msgstr "Home"
+
+#: footer.php:13 header.php:334
+msgid "Blog"
+msgstr "Blog"
+
+#: footer.php:14
+msgid "About"
+msgstr "Über uns"
+
+#: footer.php:15
+msgid "Terms of Service"
+msgstr "Nutzungsbedingungen"
+
+#: footer.php:20
+msgid "Contact"
+msgstr "Kontakt"
+
+#: footer.php:22
+msgid "Support"
+msgstr "Support"
+
+#: footer.php:23
+msgid "Contact us"
+msgstr "Kontaktiere uns"
+
+#: footer.php:24
+msgid "Imprint"
+msgstr "Impressum"
+
+#: footer.php:29
+msgid "Useful Links"
+msgstr "Nützliche Links"
+
+#: footer.php:31 header.php:322
+msgid "Pricing"
+msgstr "Preise"
+
+#: footer.php:32 header.php:329
+msgid "Get Started"
+msgstr "Loslegen"
+
+#: footer.php:33
+msgid "My first Ironman"
+msgstr "Mein erster Ironman"
+
+#: footer.php:38
+msgid "Social Media"
+msgstr "Social Media"
+
+#: footer.php:47
+msgid "Facebook"
+msgstr "Facebook"
+
+#: footer.php:48
+msgid "Twitter"
+msgstr "Twitter"
+
+#: footer.php:49
+msgid "RSS"
+msgstr "RSS"
+
+#: footer.php:63
+msgid "queries"
+msgstr "Abfragen"
+
+#: footer.php:63
+msgid "seconds"
+msgstr "Sekunden"
+
+#: functions.php:158
+msgid "Custom Header"
+msgstr "Anpassbarer Header"
+
+#: functions.php:171
+msgid "Close Color Picker"
+msgstr "Close Color Picker"
+
+#: functions.php:374
+msgid "Options saved."
+msgstr "Options saved."
+
+#: functions.php:377
+msgid "Customize Header"
+msgstr "Customize Header"
+
+#: functions.php:391 functions.php:398
+msgid "Save"
+msgstr "Speichern"
+
+#: functions.php:392
+msgid "Font Color:"
+msgstr "Font Color:"
+
+#: functions.php:392
+msgid "Any CSS color (%s or %s or %s)"
+msgstr "Any CSS color (%s or %s or %s)"
+
+#: functions.php:393
+msgid "Upper Color:"
+msgstr "Upper Color:"
+
+#: functions.php:393 functions.php:394
+msgid "HEX only (%s or %s)"
+msgstr "HEX only (%s or %s)"
+
+#: functions.php:394
+msgid "Lower Color:"
+msgstr "Lower Color:"
+
+#: functions.php:396
+msgid "Toggle Text"
+msgstr "Toggle Text"
+
+#: functions.php:397
+msgid "Use Defaults"
+msgstr "Use Defaults"
+
+#: functions.php:406
+msgid "Font Color"
+msgstr "Font Color"
+
+#: functions.php:407
+msgid "Upper Color"
+msgstr "Upper Color"
+
+#: functions.php:408
+msgid "Lower Color"
+msgstr "Lower Color"
+
+#: functions.php:409
+msgid "Revert"
+msgstr "Revert"
+
+#: functions.php:410
+msgid "Advanced"
+msgstr "Advanced"
+
+#: functions.php:417
+msgid "Update Header"
+msgstr "Update Header"
+
+#: functions.php:423
+msgid "Font Color (CSS):"
+msgstr "Font Color (CSS):"
+
+#: functions.php:424
+msgid "Upper Color (HEX):"
+msgstr "Upper Color (HEX):"
+
+#: functions.php:425
+msgid "Lower Color (HEX):"
+msgstr "Lower Color (HEX):"
+
+#: functions.php:426
+msgid "Select Default Colors"
+msgstr "Select Default Colors"
+
+#: functions.php:427
+msgid "Toggle Text Display"
+msgstr "Toggle Text Display"
+
+#: header.php:299
+msgid "Toggle navigation"
+msgstr "Öffne/Schliesse Navigation"
+
+#: header.php:318
+msgid "What is TriCoreTraining?"
+msgstr "Was ist TriCoreTraining?"
+
+#: header.php:319
+msgid "Features"
+msgstr "Funktionen"
+
+#: header.php:320
+msgid "References"
+msgstr "Referenzen"
+
+#: header.php:321
+msgid "Get Training Hints"
+msgstr "Erhalte Trainingshinweise"
+
+#: header.php:323
+msgid "More about TriCoreTraining"
+msgstr "Mehr über TriCoreTraining"
+
+#: header.php:327
+msgid "How to start"
+msgstr "Wie starten"
+
+#: header.php:330 header.php:357
+msgid "Sign in"
+msgstr "Einloggen"
+
+#: header.php:334
+msgid "FAQ"
+msgstr "FAQ"
+
+#: header.php:336
+msgid "Read our blog"
+msgstr "Lies unseren Blog"
+
+#: header.php:337
+msgid "News"
+msgstr "News"
+
+#: header.php:338
+msgid "FAQs"
+msgstr "FAQs"
+
+#: header.php:345 header.php:347 header.php:416 header.php:418
+msgid "Search"
+msgstr "Suche"
+
+#: header.php:351 header.php:394 header.php:422
+msgid "Change to"
+msgstr "Change to"
+
+#: header.php:366
+msgid "Training"
+msgstr "Training"
+
+#: header.php:368
+msgid "Training Plan"
+msgstr "Trainingsplan"
+
+#: header.php:369
+msgid "Your Training Plan"
+msgstr "Dein Trainingsplan"
+
+#: header.php:371
+msgid "Training Log"
+msgstr "Trainingslog"
+
+#: header.php:372
+msgid "Your Races"
+msgstr "Deinen Rennen"
+
+#: header.php:374
+msgid "Statistics"
+msgstr "Statistiken"
+
+#: header.php:375
+msgid "How fit am I?"
+msgstr "Wie fit bin ich?"
+
+#: header.php:376
+msgid "How fast am I?"
+msgstr "Wie schnell bin ich?"
+
+#: header.php:377
+msgid "Can I finish my goal?"
+msgstr "Kann ich mein Ziel erreichen?"
+
+#: header.php:378
+msgid "How much have I lost?"
+msgstr "Wie viel habe ich verloren?"
+
+#: header.php:379
+msgid "What have I achieved?"
+msgstr "Was habe ich erreicht?"
+
+#: header.php:384
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: header.php:386
+msgid "Edit training info"
+msgstr "Trainingsinfo bearbeiten"
+
+#: header.php:387
+msgid "Edit weight goals"
+msgstr "Gewichtsziele bearbeiten"
+
+#: header.php:388
+msgid "Edit profile"
+msgstr "Profil bearbeiten"
+
+#: header.php:389
+msgid "Change password"
+msgstr "Passwort bearbeiten"
+
+#: header.php:390
+msgid "Change metric"
+msgstr "Einheiten bearbeiten"
+
+#: header.php:391
+msgid "Feedback"
+msgstr "Feedback"
+
+#: header.php:393 header.php:428
+msgid "Sign out"
+msgstr "Ausloggen"
+
+#: header.php:405
+msgid "Premium"
+msgstr "Premium"
+
+#: header.php:407
+msgid "Subscribe"
+msgstr "Abonniere"
+
+#: header.php:408
+msgid "Show payments"
+msgstr "Zeige Zahlungen"
+
+#: header.php:409
+msgid "Cancel subscription :("
+msgstr "Mitgliedschaft kündigen :("
+
+#: image.php:30 index.php:53 single.php:36
+msgid "Read the rest of this entry"
+msgstr "Lies den Rest dieses Eintrags"
+
+#: image.php:45
+msgid "This entry was posted on"
+msgstr "Dieser Eintrag wurde gepostet am"
+
+#: image.php:45 single.php:50
+msgid "at"
+msgstr "am"
+
+#: image.php:46
+msgid "and is filed under"
+msgstr "und wurde abgelegt unter"
+
+#: image.php:48
+msgid "You can follow any responses to this entry through the RSS feed."
+msgstr "Du kannst jeder Antwort zu diesem Beitrag über den RSS Feed folgen."
+
+#: image.php:52 single.php:56
+msgid "You can leave a response"
+msgstr "Du kannst eine Antwort hinterlassen"
+
+#: image.php:52 image.php:56 single.php:56 single.php:60
+msgid "here"
+msgstr "hier"
+
+#: image.php:52 single.php:56
+msgid "or"
+msgstr "oder"
+
+#: image.php:52 single.php:56
+msgid "trackback from your own site"
+msgstr "rückverfolge (trackback) von deiner eigenen Site"
+
+#: image.php:56 single.php:60
+msgid ""
+"Responses are currently closed, but you can trackback from your own site."
+msgstr ""
+"Antworten sind derzeit geschlossen, aber du kannst trackback von deiner "
+"Site nutzen."
+
+#: image.php:60 single.php:64
+msgid ""
+"You can skip to the end and leave a response. Pinging is currently not "
+"allowed."
+msgstr ""
+"Du kannst zum Ende runterspringen und eine Nachricht hinterlassen. Pinging "
+"ist derzeit nicht erlaubt."
+
+#: image.php:64
+msgid "Both comments and pings are currently closed."
+msgstr "Kommentare und Pings sind derzeit deaktiviert."
+
+#: image.php:66 page.php:43
+msgid "Edit this entry."
+msgstr "Bearbeite diesen Eintrag."
+
+#: image.php:77
+msgid "Sorry, no attachments matched your criteria."
+msgstr "Sorry, kein Attachment passt zu deinen Kriterien."
+
+#: index.php:46 search.php:33
+msgid "Permanent Link to"
+msgstr "Permanenter Link zu"
+
+#: index.php:56 search.php:36 single.php:41
+msgid "Tags"
+msgstr "Tags"
+
+#: index.php:58
+msgid "View details"
+msgstr "Details anzeigen"
+
+#: index.php:86
+msgid "Not Found"
+msgstr "Nicht gefunden"
+
+#: index.php:87
+msgid "Sorry, but you are looking for something that is not here."
+msgstr "Sorry, aber du suchst nach etwas, das nicht hier ist."
+
+#: links.php:22
+msgid "Links:"
+msgstr "Links:"
+
+#: page.php:30
+msgid "Read the rest of this page"
+msgstr "Lies den Rest der Seite"
+
+#: page.php:32 sidebar.php:55 single.php:38
+msgid "Pages"
+msgstr "Seiten"
+
+#: page.php:32 single.php:38
+msgid "number"
+msgstr "Nummer"
+
+#: search.php:23
+msgid "Search Results"
+msgstr "Suchergebnisse"
+
+#: search.php:48
+msgid "No posts found. Try a different search?"
+msgstr "Keine Beiträge gefunden. Versuche eine andere Suche?"
+
+#: sidebar.php:2
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: sidebar.php:28
+msgid "You are currently browsing the archives for the category"
+msgstr "Du surfst derzeit im Archiv der Kategorie"
+
+#: sidebar.php:31 sidebar.php:35 sidebar.php:39 sidebar.php:47
+msgid "You are currently browsing the blog archives"
+msgstr "Du surfst derzeit im Blogarchiv"
+
+#: sidebar.php:32
+msgid "for the day"
+msgstr "für den Tag"
+
+#: sidebar.php:36 sidebar.php:44
+msgid "for"
+msgstr "für"
+
+#: sidebar.php:40
+msgid "for the year"
+msgstr "für das Jahr"
+
+#: sidebar.php:43
+msgid "You have searched the blog archives"
+msgstr "Du hast das Blogarchiv durchsucht"
+
+#: sidebar.php:44
+msgid ""
+"If you are unable to find anything in these search results, you can try one "
+"of these links."
+msgstr ""
+"Wenn du nichts in den Suchergebnissen findest, dann kannst du einen dieser "
+"Links probieren."
+
+#: sidebar.php:57
+msgid "Archives"
+msgstr "Archive"
+
+#: sidebar.php:61
+msgid "Categories"
+msgstr "Kategorien"
+
+#: sidebar.php:67
+msgid "Meta"
+msgstr "Meta"
+
+#: single.php:50
+msgid "on"
+msgstr "auf"
+
+#. Theme Name of the plugin/theme
+msgid "WordPress Default"
+msgstr "Wordpress Default"
+
+#. Theme URI of the plugin/theme
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. Description of the plugin/theme
+msgid ""
+"The default WordPress theme based on the famous <a href=\"http://"
+"binarybonsai.com/kubrick/\">Kubrick</a>."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Michael Heilemann"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://binarybonsai.com/"
+msgstr ""
