@@ -313,7 +313,10 @@ $(document).ready(function() {
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse navbar-ex1-collapse">
 
-<?php if ( !isset( $_COOKIE['CakeCookie']['tct_auth'] ) && !isset( $_COOKIE['CakeCookie']['tct_auth_blog'] ) ) { ?>
+<?php if ( 
+    !isset( $_COOKIE['CakeCookie']['tct_auth_blog2'] ) && 
+    !isset( $_COOKIE['CakeCookie']['tct_auth_blog'] ) 
+    ) { ?>
 
                 <ul class="nav navbar-nav">
 
@@ -363,8 +366,10 @@ $(document).ready(function() {
 </form>
 
 <?php } ?>
-<?php if ( isset( $_COOKIE['CakeCookie']['tct_auth'] ) || isset( $_COOKIE['CakeCookie']['tct_auth_blog'] ) ) { ?>
-
+<?php if ( 
+    isset( $_COOKIE['CakeCookie']['tct_auth_blog2'] ) ||  
+    isset( $_COOKIE['CakeCookie']['tct_auth_blog'] ) 
+    ) { ?>
                 <!-- signed in -->
                 <ul class="nav navbar-nav">
                   <li class="dropdown">

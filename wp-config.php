@@ -17,7 +17,7 @@ define('WP_CACHE', true); // Added by W3 Total Cache
  * @package WordPress
  */
 
-if ( $_SERVER['HTTP_HOST'] == 'local.tricoretraining.com' ) {
+if ( $_SERVER['HTTP_HOST'] == 'local2.tricoretraining.com' ) {
     $_SERVER['DOCUMENT_ROOT'] = '/Applications/XAMPP/htdocs/tricoretraining.com';
 
     // ** MySQL settings - You can get this info from your web host ** //
@@ -32,22 +32,6 @@ if ( $_SERVER['HTTP_HOST'] == 'local.tricoretraining.com' ) {
 
     /** MySQL hostname */
     define('DB_HOST', 'localhost');
-
-} elseif (  $_SERVER['HTTP_HOST'] == 'test.tricoretraining.com' ) {
-
-    $_SERVER['DOCUMENT_ROOT'] = '/var/chroot/home/content/92/10829392/html/test.tricoretraining.com';
-    // ** MySQL settings - You can get this info from your web host ** //
-    /** The name of the database for WordPress */
-    define('DB_NAME', 'tcttrainerblogte');
-
-    /** MySQL database username */
-    define('DB_USER', 'tcttrainerblogte');
-
-    /** MySQL database password */
-    define('DB_PASSWORD', 'Finger99!');
-
-    /** MySQL hostname */
-    define('DB_HOST', 'tcttrainerblogte.db.10829392.4c2.hostedresource.net');
 
 } elseif (  $_SERVER['HTTP_HOST'] == 'thetriplans.com' ) {
 
