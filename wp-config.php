@@ -44,7 +44,7 @@ if ( $_SERVER['HTTP_HOST'] == 'local2.tricoretraining.com' ) {
     define('DB_USER', 'schrlnek_tctblog');
 
     /** MySQL database password */
-    define('DB_PASSWORD', '8L,x(z)2eDTbcABWq7gv');
+    define('DB_PASSWORD', 'xxx');
 
     /** MySQL hostname */
     define('DB_HOST', 'localhost');
@@ -61,7 +61,7 @@ if ( $_SERVER['HTTP_HOST'] == 'local2.tricoretraining.com' ) {
     define('DB_USER', 'schrlnek_tctblog');
 
     /** MySQL database password */
-    define('DB_PASSWORD', '8L,x(z)2eDTbcABWq7gv');
+    define('DB_PASSWORD', 'xxx');
 
     /** MySQL hostname */
     define('DB_HOST', 'localhost');
